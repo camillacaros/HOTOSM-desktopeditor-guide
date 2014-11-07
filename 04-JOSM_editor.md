@@ -90,9 +90,9 @@ For today’s work, please click on the Typhoon Haiyan - Inland Negros Occidenta
 
 On the project’s page, please read the Description section for the task area.
 
-Click on the next tab over, called Workflow.  Read what it says.
+Click on the next tab over, called **Workflow**.  Read what it says.
 
-It is important to pay attention to these sections so that you understand what you are being tasked with.  Some projects will have much longer Descriptions and Workflows.  For this particular project, the instructions are quite straightforward instructions.  This is not always the case.  In your future editing work, please do not take on tasks that you do not understand.  If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.
+`It is **very important** to pay attention to these sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, please do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.`
 
 Once you have read the info under the Description and Workflow tabs, click on the Task tab.
 
@@ -112,9 +112,8 @@ Right click with your mouse to enable yourself to pan around the image.  Choose 
 
 Visually inspect the image.  Try to identify previously unmarked roads and buildings.
 
-When you find an item that needs to be traced, click the Draw button.  It is the second icon down in the icon stack on the left side of the JOSM editor.
+When you find an item that needs to be traced, click the **Draw** button.  It is the second icon down in the icon stack on the left side of the JOSM editor.
 
-                
 
 Trace the item(s).  If you are adding to an existing road or feature, feel free to start at an existing node and continue drawing from there.  If you need to delete a section of an item or an whole item, go back to the icon stack on the left side of the JOSM editor.  Click the selector tool.  It is just above the draw tool. 
 
