@@ -72,29 +72,26 @@ This will launch a desktop editor that is run and managed through the web.  **It
 
 #### 3. Log in to the Humanitarian Openstreetmap Team’s Task Manager
 
-This next section walks you through contributing to a single project, however, the skills you learn here will be transferrable to many of the HOT/HOSM projects listed on the task manager page.  
+This next section walks you through contributing to a single project, however, the skills you learn here will be transferrable to many of the HOT/HOSM projects listed on the task manager page.
 
-Go to the task manager page: tasks.hotosm.org
+- Go to the task manager page: tasks.hotosm.org
 
-Click, and do so.
+- Click, `Log in using your OpenStreetMap account` and do so.  
+**(Please feel free to `Take the Tour` of the task manager if you’d like.  It only takes a minute.)**
 
-(Please feel free to of the task manager if you’d like.  It only takes a minute.)
+- Once logged in to the task manager, you can click on a task to go to it’s individual project page.
 
-Once logged in to the task manager, you can click on a task to go to it’s individual project page.
+- On the project’s page, **please read the Description section for the task area**.
 
-For today’s work, please click on the Typhoon Haiyan - Inland Negros Occidental project.
-
-On the project’s page, please read the Description section for the task area.
-
-Click on the next tab over, called **Workflow**.  Read what it says.
+- Click on the next tab over, called **Workflow**.  Read what it says.
 
 It is **very important** to pay attention to these sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, please do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.
 
-Once you have read the info under the Description and Workflow tabs, click on the Task tab.
+- Once you have read the info under the Description and Workflow tabs, click on the **Task** tab.
 
-Manually select a tile in the map viewer on the right hand side of the page, or click the  button to be assigned a task.
+- Manually select a tile in the map viewer on the right hand side of the page, or click the  button to be assigned a task.
 
-Click on the  editor option.  This will automatically load the task in your JOSM desktop editor.
+- Click on the  editor option.  This will automatically load the task in your JOSM desktop editor.
 
 4. Tracing Features
 
