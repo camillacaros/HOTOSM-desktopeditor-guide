@@ -48,15 +48,11 @@ In the first large green box you see, click the josm.jnlp link.
 
 This will begin a download of the JOSM Extensible Editor, meaning it will not install as an application on your hard drive.  You will, however, need to have Java installed in order for the editor to run properly.  The JOSM program should prompt you to install Java, or you may go to this link to download and install on your own. https://java.com/en/download/index.jsp 
 
-- If you are prompted to Keep or Discard the item, choose Keep.
-
-- Go to your Downloads folder and double click the JOSM file.
-
-This will launch a desktop editor that is run and managed through the web.  **It will not install anything on your computer**, but you do need to give it permission to run. A dialog box will appear asking “Do you want to run this application?”
-
-- Click the radio button to agree “I accept the risk and want to run this application”.  Click Run. This will open the JOSM Editor.
-
-- If you are using Windows, click on the Edit menu in JOSM.  If you are using MacOSX, click on the JOSM menu in the top left of your screen.  Both will have a dropdown option for your Preferences. Click on it.
+If you are prompted to Keep or Discard the item, choose Keep.  
+Go to your Downloads folder and double click the JOSM file.  
+This will launch a desktop editor that is run and managed through the web.  **It will not install anything on your computer**, but you do need to give it permission to run. A dialog box will appear asking “Do you want to run this application?”  
+Click the radio button to agree “I accept the risk and want to run this application”. Click Run. This will open the JOSM Editor.  
+If you are using Windows, click on the Edit menu in JOSM.  If you are using MacOSX, click on the JOSM menu in the top left of your screen.  Both will have a dropdown option for your Preferences. Click on it.  
 
 
 - On the left side of the dialog box there is a stack of icons. Click on the remote control.  It is the third from the bottom. 
