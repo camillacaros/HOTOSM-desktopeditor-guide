@@ -36,9 +36,10 @@ Click
 Once you are signed up, feel free to close the page.
 
 #### JOSM
+
 This is a guide to getting set up with the JOSM desktop editor.  This will not require you to install anything on your hard drive, as the JOSM editor is a portable application.  JOSM is the decided method for this workshop because I have found it to be the most reliable editing interface.  If you are interested in using the web editor, Walking Papers, or Potlatch please feel free to refer to the documentation on the OSM website!
 
-2. Open the JOSM Web Editor
+#### 2. Open the JOSM Web Editor
 
 Go to: [josm.openstreetmap.de](josm.openstreetmap.de)
 
@@ -47,34 +48,29 @@ In the first large green box you see, click the josm.jnlp link.
 
 This will begin a download of the JOSM Extensible Editor, meaning it will not install as an application on your hard drive.  You will, however, need to have Java installed in order for the editor to run properly.  The JOSM program should prompt you to install Java, or you may go to this link to download and install on your own. https://java.com/en/download/index.jsp 
 
-If you are prompted to Keep or Discard the item, choose Keep.
+- If you are prompted to Keep or Discard the item, choose Keep.
 
-Go to your Downloads folder and double click the JOSM file.
+- Go to your Downloads folder and double click the JOSM file.
 
+This will launch a desktop editor that is run and managed through the web.  **It will not install anything on your computer**, but you do need to give it permission to run. A dialog box will appear asking “Do you want to run this application?”
 
-This will launch a desktop editor that is run and managed through the web.  It will not install anything on your computer, but you do need to give it permission to run.
+- Click the radio button to agree “I accept the risk and want to run this application”.  Click Run. This will open the JOSM Editor.
 
-A dialog box will appear asking “Do you want to run this application?”
-
-Click the radio button to agree “I accept the risk and want to run this application”.  Click Run.
-
-
-This will open the JOSM Editor.
-
-If you are using Windows, click on the Edit menu in JOSM.  If you are using MacOSX, click on the JOSM menu in the top left of your screen.  Both will have a dropdown option for your Preferences.  Click on it.
-
-On the left side of the dialog box there is a stack of icons.  Click on the remote control.  It is the third from the bottom. 
-
-When the tab opens, click the radio button to place a check next to .
-
-Enabling the Remote Control will allow the online Task Manager to download a task for you, as well as upload your edits when you are finished.
-
-At the bottom of the page, click ok.  Dialog box will close.
-
-Leave JOSM open and running.  Go back to your web browser.
+- If you are using Windows, click on the Edit menu in JOSM.  If you are using MacOSX, click on the JOSM menu in the top left of your screen.  Both will have a dropdown option for your Preferences. Click on it.
 
 
-3. Log in to the Humanitarian Openstreetmap Team’s Task Manager
+- On the left side of the dialog box there is a stack of icons. Click on the remote control.  It is the third from the bottom. 
+
+- When the tab opens, click the radio button to place a check next to `enable remote control`.
+
+*Enabling the Remote Control will allow the online Task Manager to download a task for you, as well as upload your edits when you are finished.*
+
+- At the bottom of the page, click ok.  Dialog box will close.
+
+**Leave JOSM open and running.  Go back to your web browser.**
+
+
+#### 3. Log in to the Humanitarian Openstreetmap Team’s Task Manager
 
 This next section walks you through contributing to a single project, however, the skills you learn here will be transferrable to many of the HOT/HOSM projects listed on the task manager page.  
 
