@@ -2,7 +2,7 @@
 Este es un manual de instrucciones que le ayudarán a ponerse en marcha como parte del esfuerzo humanitario OpenStreetMap . Por favor, lea la siguiente información para comenzar, y no dude en ponerse en contacto con nosotros con cualquier pregunta que usted pueda tener.
 Datos de contacto en la parte inferior del documento.
  
-¿De qué se trata?
+#### ¿De qué se trata?
  
 El equipo de OpenStreetMap Humanitaria (HOT / HOSM) está compuesto por voluntarios de todo el mundo que están ayudando a crear mapas de áreas previamente no asignadas. Cualquier persona con una computadora y una conexión a Internet puede ser un voluntario. Todo lo que necesita es una cuenta de OpenStreetMap (¡gratis!) Y un poco de tiempo para dar. Si usted no tiene una cuenta OpenStreetMap, por favor, siga las instrucciones de abajo y regístrese. Si ya tiene una cuenta, por favor lea el resto de esta introducción y luego vaya al paso dos.
  
@@ -16,8 +16,8 @@ Además, todo el trabajo que está haciendo va a ir a la etapa de Validación, d
  
 Nota sobre los métodos utilizados a continuación: Esta es una guía para establecer el editor de escritorio JOSM. Esto no requiere que instale nada en el disco duro, ya que el editor JOSM es una aplicación portátil. JOSM es el método elegido para este taller porque he encontrado que es la interfaz de edición más fiable. Si usted está interesado en utilizar el editor web, Walking Papers, o Potlatch por favor no dude en consultar la documentación en el sitio web de OSM!
  
-1. Regístrese en OpenStreetMap
-Vaya a: www.openstreetmap.org
+##### 1. Regístrese en OpenStreetMap
+Vaya a: [www.openstreetmap.org](www.openstreetmap.org)
  
 Dirija su atención a la esquina superior derecha. Haga clic en registrarse.
  
@@ -29,9 +29,10 @@ Contraseña
 Dele clic
  
 Una vez que esté registrado, puede cerrar la página.
-2. Abra el Editor Web JOSM
+
+##### 2. Abra el Editor Web JOSM
  
-Vaya a: josm.openstreetmap.de
+Vaya a: [josm.openstreetmap.de](josm.openstreetmap.de)
  
 En el primer recuadro verde grande que aparece, haga clic en el enlace josm.jnlp.
  
@@ -62,7 +63,7 @@ En la parte inferior de la página, haga clic en Aceptar. El cuadro de diálogo 
 Deje JOSM abierto y en funcionamiento. Vuelva a su navegador web.
  
  
-3. Conéctese al Administrador de tareas del Openstreetmap del Equipo Humanitario
+##### 3. Conéctese al Administrador de tareas del Openstreetmap del Equipo Humanitario
  
 La siguiente sección le guía para contribuir a un solo proyecto, sin embargo, las habilidades que aprenda aquí serán transferibles a muchos de los proyectos HOT / HOSM que aparecen en la página del administrador de tareas.
  
@@ -87,7 +88,7 @@ Seleccione manualmente un recuadro en el visor de mapas en el lado derecho de la
  
 Haga clic en la opción del editor. Esto cargará automáticamente la tarea en su editor de escritorio JOSM.
  
-4. Rastreo de Características
+##### 4. Rastreo de Características
  
 La extensión de su recuadro de tarea se cargará automáticamente en el editor JOSM que ha abierto, pero las imágenes de satélite no aparecerán. Con el fin de obtener las imagines satelitales de referencia siga los siguientes pasos:
  
@@ -100,8 +101,7 @@ Haga clic derecho con el ratón para que usted mismo se desplace por la imagen. 
 Inspeccione visualmente la imagen. Trate de identificar las carreteras y los edificios que no se marcaron anteriormente.
  
 Cuando usted encuentre un artículo que debe ser trazado, haga clic en el botón Dibujar. Es el segundo ícono  en el lado izquierdo del editor JOSM.
- 
- 
+
  
 Trace el artículo (s). Si va a agregar a una carretera o elemento existente, no dude en empezar en un nodo existente y continuar dibujando desde allí. Si necesita eliminar una sección de un artículo o un artículo entero, vuelva al ícono en el lado izquierdo del editor JOSM. Haga clic en la herramienta de selección. Está justo arriba de la herramienta de dibujo.
  
@@ -113,7 +113,7 @@ Para agregar una etiqueta a un elemento (por ejemplo: Building), dirija su atenc
  
 Un cuadro de diálogo aparecerá con dos campos. El primero le pedirá que seleccione una clave, y la segunda para seleccionar un valor. Haga clic en los menús desplegables para cada uno de estos campos y examine sus opciones.
  
-Es importante etiquetar los objetos que se dibujan de acuerdo con las instrucciones dadas en el flujo de trabajo o en las pestanas de descripción de tareas en el sitio web del Administrador de tareas. Si no hay instrucciones, utilice su mejor criterio para agregar una etiqueta significativa. Utilice las etiquetas simples, es decir, Edificio, Carretera clave. Al elegir Sí en el campo de valor será suficiente si no se tiene información razonable para que pueda dar un valor más descriptivo a un elemento.
+Es importante etiquetar los objetos que se dibujan de acuerdo con las instrucciones dadas en el flujo de trabajo o en las pestanas de descripción de tareas en el sitio web del Administrador de tareas. Si no hay instrucciones, utilice su mejor criterio para agregar una etiqueta significativa. Utilice las etiquetas simples, es decir, Edificio, Carretera clave. Al elegir Sí en el campo de valor será suficiente si no se tiene información razonable para que pueda dar un vlor más descriptivo a un elemento.
 * nota: puede etiquetar rápidamente las cosas tecleando ALT -A ( Windows) o CMND -A ( Mac), Lo cual  abrirá el menú para etiquetar de nuevo con los ajustes anteriores ya rellenados , así usted puede rastrear un objeto, etiquetarlo , y continuar rápidamente .
  
  
