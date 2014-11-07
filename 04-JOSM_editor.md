@@ -92,7 +92,7 @@ On the project’s page, please read the Description section for the task area.
 
 Click on the next tab over, called **Workflow**.  Read what it says.
 
-*It is **very important** to pay attention to these sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, please do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.*
+It is **very important** to pay attention to these sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, please do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.
 
 Once you have read the info under the Description and Workflow tabs, click on the Task tab.
 
