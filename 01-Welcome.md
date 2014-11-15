@@ -19,15 +19,6 @@ On the project’s page, **read the `Instructions` section for the task area**.
 
 It is **very important** to pay attention to this sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.
 
-Once you have read the instructions, click on the next tab over that says `Contribute`direct your attention to the map on the right-hand side of the page and click on an empty square. Manually select a tile in the map viewer on the right hand side of the page, or click the  button to be assigned a task.
-
-
-#### Picking a HOT Task
-
-It is good to keep in mind that each task is unique.  Some tasks will use Bing or Mapbox satellite imagery as a reference image. Others will have you download a specific piece of imagery that may have been donated by a hi-res imagery company such as DigitalGlobe.  As long as you are using the portable JOSM editor (the one we have walked you through in these instructions) the imagery will stream straight to the JOSM editor.  You should not have to download it and open it up on your own.  Everything else should work the same as we have described above.  However, if it does not, please don’t hesitate to contact me.  I will do my best to help.  My contact is at the bottom of this document.
-
-The other comment I will make, is that it is imperative that you read the Description and Workflow tabs before working on a specific project.  While volunteering is great, you will squander your own efforts, as well as those of others, if you do not take the time to do the job correctly.  Please take the time to be well informed about the job you are taking on.
-
-Other than that, thank you so much for your time and energy!
+Once you have read the instructions, click on the next tab over that says `Contribute`. Either click the green 'start mapping' button to be assigned a mapping task, or manually select a tile in the map viewer on the right hand side of the page. Next, the left side of the page will show you a drop down menu or editing options. Click on the default `iD editor` option to start mapping in your web browser window. This will open a new tab in your browser,
 
 Now spread the love.
