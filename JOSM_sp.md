@@ -128,7 +128,7 @@ Repita
  
 ¡Usted está haciendo su parte para ayudar a los esfuerzos de ayuda!
  
-5) Cuando haya terminado con una tarea vaya a la página del administrador de tareas.
+##### 5) Cuando haya terminado con una tarea vaya a la página del administrador de tareas.
  
 Puede llenar cualquier nota que pueda tener en la sección de comentarios.
  
@@ -136,12 +136,12 @@ Clic
  
 Importante: Si desea salir de una tarea sin completarla, hay una frase debajo de la " tarea Marcar como hecha " la cual dice Haga clic en el enlace para salir de la tarea y liberarla para que alguien más trabaje en ella.
  
-6) Si usted piensa que tiene experiencia suficiente para Validar (de lo contrario pase al paso  7)
+##### 6) Si usted piensa que tiene experiencia suficiente para Validar (de lo contrario pase al paso  7)
  
 Si usted es un analista de SIG con experiencia o asignador de OSM, usted puede calificar para validar los recuadros que están marcados como terminados. Si este fuera el caso, por favor, consulte la página para tomar una tarea. Debajo del requerimiento de una tarea, hay un pequeño enlace que le llevará a la etapa de validación. Usted es el único juez que puede determinar si usted está listo para validar o no, así que por favor tome esto en serio. Cuando " Valide " una ficha, usted está confirmando  que el recuadro se ha cartografiado adecuadamente y con precisión. Si usted está preparado para continuar con esto, por favor haga clic en el enlace de validación.
 Esto le llevará a una página muy similar a la página " Tome una tarea”. La diferencia es que usted tendrá la opción de una tarea, en lugar de "Marcar tarea como terminada”. Su trabajo consiste en revisar el trabajo que se ha hecho por otros. Hágalo cuidadosamente, y tome nota de y arregle cualquier problema que encuentre. Por ejemplo, asegúrese que las características estén etiquetadas de manera adecuada y las carreteras y los edificios no se hayan perdido. Si hay muchos problemas con la tarea, puede invalidarla y enviarla de nuevo a la cola de tareas. Si desea salir de una tarea sin darle un voto válido o no válido, puede hacerlo, sólo siga las instrucciones anteriores. 
  
-7) Algunas notas si desea continuar con el voluntariado
+##### 7) Algunas notas si desea continuar con el voluntariado
  
 Es bueno tener en cuenta que cada tarea es única. Algunas tareas utilizarán Bing o Mapbox imágenes de satélite como imagen de referencia. Otros tendrán que descargar una pieza específica de las imágenes que pueden haber sido donado por una empresa de imágenes de alta resolución como DigitalGlobe. Mientras usted está utilizando el editor JOSM portátil (el cual le hemos guiado a través de estas instrucciones) la imaginería se transmitirá directamente al editor JOSM. Usted no tiene que descargarlo y abrirlo por su cuenta. Todo lo demás debe funcionar normalmente como lo hemos descrito anteriormente. Sin embargo, si no es así, por favor no dude en ponerse en contacto conmigo. Haré todo lo posible para ayudarle. Mi información de contacto está en la parte inferior de este documento.
  
@@ -155,9 +155,4 @@ Este es un enlace a este documento, que está disponible al público: http://bit
  
 Este documento fue elaborado por Camilla Mahon y Tyler Dahlberg.
  
-Si tiene problemas, preguntas o preocupaciones. Póngase en contacto con:
- 
-Camilla Mahon: email: cmahon (arroba) clarku (punto) edu
-Twitter: @ camillacaros
-Tyler Dahlberg: twitter: @ geotyler
-
+Si tiene problemas, preguntas o preocupaciones.
