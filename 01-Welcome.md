@@ -12,12 +12,7 @@ If you are totally new to tracing, please refer to the [OSM Using Imagery Wiki](
 
 #### HOTOSM Tasking Manager
 
-This next section walks you through contributing to a single project, however, the skills you learn here will be transferrable to many of the HOT/HOSM projects listed on the task manager page.
-
-Go to the task manager page: tasks.hotosm.org
-
-Click, `Log in using your OpenStreetMap account` and do so.  
-**(Please feel free to `Take the Tour` of the task manager if you’d like.  It only takes a minute.)**
+After you've signed up for an OSM account, head over to the [HOTOSM tasking manager](http://tasks.hotosm.org/) where you'll pick a tracing task to work on. Use your OSM username and password to login on this page (upper right hand corner).
 
 Once logged in to the task manager, you can click on a task to go to it’s individual project page.
 
