@@ -19,6 +19,16 @@ On the project’s page, **read the `Instructions` section for the task area**.
 
 It is **very important** to pay attention to this sections so that you understand what you are being tasked with. Some projects will have much longer Descriptions and Workflows. In your editing work, do not take on tasks that you do not understand. If you would like to contribute to something that seems over your head, send an email, ask questions, and get the right info before you edit.
 
-Once you have read the instructions, click on the next tab over that says `Contribute`. Either click the green 'start mapping' button to be assigned a mapping task, or manually select a tile in the map viewer on the right hand side of the page. Next, the left side of the page will show you a drop down menu or editing options. Click on the default `iD editor` option to start mapping in your web browser window. This will open a new tab in your browser,
+Once you have read the instructions, click on the next tab over that says `Contribute`. Either click the green 'start mapping' button to be assigned a mapping task, or manually select a tile in the map viewer on the right hand side of the page. Next, the left side of the page will show you a drop down menu or editing options. Click on the default `iD editor` option to start mapping in your web browser window. This will open a new tab in your browser, where you will be able to make changes to the map based on the satellite imagery layer provided. 
 
-Now spread the love.
+#### Working on a task
+Once you have the iD editor open, satellite imagery will load underneath the editable OSM feature records. This is your reference imagery.
+
+Visually inspect the image. Try to identify previously unmarked roads and buildings. Pan around and zoom in and out to find buildings, roads, and other features that need to be traced.
+
+When you find an item that needs to be traced, click on the `Point`, `Line` or `Area` tool at the top of the page to pick a tool to draw with. Use this tool to trace the item(s) you've identified. If you are adding to an existing road or feature, feel free to start at an existing node and continue drawing from there.  If you need to delete a section of an item or an whole item.
+
+After you've traced an item, you'll want to use the dashboard on the left side of the page to tag the item as a "road", "building", or otherwise. It is important to tag the items you draw in accordance with the instructions given on the tasking page.  If specific instructions are not given with regards to taggin, use your best judgement to add a meaningful tag.  Stick with the simple descriptors, i.e. Building, Road for the key field.  Choosing Yes for the value field will suffice if you do not have reasonable information to enable you to give a more descriptive value to an item.
+
+Do as much tracing as you can, and be sure to save your work before you exit. Keep in mind that you don't have to finish an entire task to save and exit. Do what you can, and thank you for your contribution!
+
