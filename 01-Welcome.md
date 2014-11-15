@@ -4,7 +4,7 @@ This set of instructions will help you get set up to be part of the **Humanitari
 
 ### What is HOT
 
-The Humanitarian OpenStreetMap team (HOT) is made up of volunteers from all over the globe who are helping to map previously unmapped areas. This is done by tracing high-resolution satellite imagery. Anyone with a computer and an internet connection can become a volunteer. All you need is an [OpenStreetMap account (free!)](https://www.openstreetmap.org/user/new) and little bit of time to give.
+The Humanitarian OpenStreetMap team (HOT) is made up of volunteers from all over the globe who are helping to map previously unmapped areas. This is done by tracing high-resolution satellite imagery. Anyone with a computer and an internet connection can become a volunteer. All you need is an [OpenStreetMap account](https://www.openstreetmap.org/user/new) and little bit of time to give.
 
 #### Tracing imagery
 
